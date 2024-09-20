@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="3" total="4" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-20T03:08:47 AST" name="Default suite" finished-at="2024-09-20T03:08:48 AST" duration-ms="664">
+    <groups>
+    </groups>
+    <test started-at="2024-09-20T03:08:47 AST" name="Default test" finished-at="2024-09-20T03:08:48 AST" duration-ms="664">
+      <class name="dataBaseProject.DataTestMySQL">
+        <test-method is-config="true" signature="MySetup()[pri:0, instance:dataBaseProject.DataTestMySQL@4eed46ee]" started-at="2024-09-20T03:08:47 AST" name="MySetup" finished-at="2024-09-20T03:08:48 AST" duration-ms="543" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MySetup -->
+        <test-method signature="readData()[pri:2, instance:dataBaseProject.DataTestMySQL@4eed46ee]" started-at="2024-09-20T03:08:48 AST" name="readData" finished-at="2024-09-20T03:08:48 AST" duration-ms="74" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readData -->
+      </class> <!-- dataBaseProject.DataTestMySQL -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
